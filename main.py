@@ -3,7 +3,7 @@ import config as cfg
 import ntpath
 import pandas
 
-
+#g
 def prepare_folders():
     if not os.path.isdir(cfg.ranked_folder):
         os.makedirs(cfg.ranked_folder)
