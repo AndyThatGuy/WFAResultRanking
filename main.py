@@ -1,5 +1,4 @@
 # Author: Andy, Pete
-raise Exception("")
 # Purpose: None
 import os
 import config as cfg
