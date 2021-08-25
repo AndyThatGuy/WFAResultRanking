@@ -1,9 +1,10 @@
+# Author: Andy, Pete
 import os
 import config as cfg
 import ntpath
 import pandas
 
-#gl
+
 def prepare_folders():
     if not os.path.isdir(cfg.ranked_folder):
         os.makedirs(cfg.ranked_folder)
