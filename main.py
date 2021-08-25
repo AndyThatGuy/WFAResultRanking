@@ -1,4 +1,5 @@
 # Author: Andy, Pete
+# Purpose: None
 import os
 import config as cfg
 import ntpath
